@@ -1,0 +1,14 @@
+# <min>\t<glob> — required project deliverables
+1	README.md
+1	.claude/skills/audio-to-film/SKILL.md
+1	docs/ARCHITECTURE.md
+1	docs/STYLE_BIBLE.md
+8	playbooks/*.md
+1	tests/test_pipeline.py
+1	app/src/director.ts
+1	app/src/plan.ts
+8	app/src/archetypes/*.ts
+9	analysis/*.py
+1	src/create_film.py
+1	src/film_qa.py
+1	gates/film_gate.sh

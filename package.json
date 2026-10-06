@@ -1,0 +1,12 @@
+{
+ "name": "audio-to-film",
+ "private": true,
+ "version": "0.2.0",
+ "scripts": {
+  "create-video": "python3 src/create_video.py",
+  "test": "python3 -m unittest discover -s tests -v",
+  "verify": "bash gates/verify_audio_to_film.sh .",
+  "create-film": "python3 src/create_film.py",
+  "fixture": "cd app && bun scripts/fixture.ts ../tests/fixture-run"
+ }
+}

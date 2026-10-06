@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "profile": "public-full",
+  "intent": {
+    "visibility": "public",
+    "images": "required",
+    "languages": [
+      "en",
+      "ko"
+    ],
+    "release": "not_requested",
+    "description": "Audio analysis and deterministic WebGL film rendering with agent-directed scenes and measurable quality gates",
+    "homepage": "",
+    "topics": [
+      "audio-analysis",
+      "motion-graphics",
+      "python",
+      "threejs",
+      "typescript",
+      "webgl"
+    ]
+  },
+  "approvals": {
+    "images": true,
+    "publish": false,
+    "release": false
+  },
+  "local": {
+    "artifacts": "pending",
+    "version": "pending"
+  },
+  "remote": {
+    "push": "pending",
+    "metadata": "pending",
+    "tag": "not_requested",
+    "release": "not_requested",
+    "verification": "pending"
+  },
+  "result": "incomplete"
+}
